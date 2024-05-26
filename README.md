@@ -1,4 +1,4 @@
-# SCARAB: Symbol Collection and Repository of All Banknotes
+# ¤ SCARAB: Symbol Collection and Repository of All Banknotes
 
 This project aims to create a database of currency icons and their corresponding display formats without being culturally specific. The motivation behind this project is to address the problem of cultural differences in currency representation and the resulting ambiguity. By identifying invariant icons that uniquely identify currency, regardless of culture, this dataset can be used to improve the consistency of currency representations and avoid misinterpretation.
 
