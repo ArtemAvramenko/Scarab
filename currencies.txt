@@ -1,0 +1,126 @@
+EUR,de-DE,0 €
+GBP,en-GB,£0|GB£0
+JPY,ja-JP,¥0|￥0|JP¥0|JP￥0|0円
+KRW,ko-KR,₩0|￦0
+SGD,en-SG,S$0
+USD,en-US,$0|US$0
+BTC,xx-XX,₿0
+ETH,xx-XX,Ξ0
+LTC,xx-XX,Ł0
+AFN,fa-AF,0 Afs
+ALL,sq-AL,0 Lekë
+AMD,hy-AM,0 ֏|0 դր.
+ANG,nl-CW,NAf. 0
+AOA,pt-PO,Kz 0
+ARS,es-AR,AR$ 0
+AUD,en-AU,A$0
+AWG,nl-AW,Afl. 0
+AZN,az-AZ,0 ₼|0 man.
+BAM,bs-BA,0 KM
+BDT,bn-BD,0৳|0 Tk
+BGN,bg-BG,0 лв.|0 lv.
+BIF,rn-BI,0 FBu
+BMD,en-BM,BM$0
+BND,ms-BN,BN$ 0
+BOB,es-BO,Bs 0
+BRL,pt-BR,R$ 0
+BSD,en-BS,B$0
+BTN,dz-BT,Nu. 0
+BWP,en-BW,P 0
+BYN,be-BY,0 Br
+BZD,en-BZ,BZ$0
+CAD,en-CA,CA$0
+CDF,sw-CD,FC 0 
+CLP,es-CL,CL$0
+CNY,zh-HK,CN¥0|CN￥0|0元
+CRC,es-CR,₡0
+CZK,cs-CZ,0 Kč
+DJF,ar-DJ,0 Fdj
+DKK,sv-SE,0 Dkr
+DOP,es-DO,RD$0
+DZD,fr-DZ,0 DA
+EGP,en-EG,E£0
+ERN,en-ER,Nfk 0
+ETB,am-ET,ብር 0
+FJD,en-FJ,FJ$0
+FKP,en-FK,FK£0
+GEL,ka-GE,0 ₾|0 ლ
+GHS,en-GH,GH₵0
+GIP,en-GI,GI£0
+GMD,en-GM,D 0
+GNF,fr-GN,0 FG
+GTQ,es-GT,Q 0
+GYD,en-GY,GY$0
+HKD,zh-HK,HK$0
+HTG,fr-HT,0 G
+HUF,hu-HU,0 Ft
+IDR,id-ID,Rp 0
+ILS,en-IL,₪0|NIS 0 
+INR,hi-IN,₹0
+ISK,is-IS,0 Ikr
+JMD,en-JM,J$0
+KES,sw-KE,Ksh 0
+KGS,ky-KG,0 сом|0 som
+KHR,km-KH,៛0
+KMF,fr-KM,0 CF
+KYD,en-KY,CI$0
+KZT,ru-KZ,0 ₸
+LAK,lo-LA,₭0
+LKR,si-LK,රු. 0
+LRD,en-LR,L$0
+MGA,mg-MG,Ar 0
+MKD,sq-MK,0 den
+MNT,mn-MN,₮ 0
+MOP,zh-MO,MOP$0
+MRU,fr-MR,0 UM
+MUR,en-MU,Rs 0
+MVR,en-MV,Rf 0
+MWK,en-MW,MK 0
+MXN,us-us,MX$0
+MYR,ms-MY,RM 0
+MZN,pt-MZ,0 MTn
+NAD,en-NA,N$0
+NGN,en-NG,₦0
+NIO,es-NI,C$0
+NOK,nb-NO,Nkr 0
+NPR,ne-NP,रू 0
+NZD,en-US,NZ$0
+PAB,es-PA,B/. 0
+PEN,es-PE,S/ 0
+PHP,en-PH,₱0
+PLN,pl-PL,0 zł
+PYG,es-PY,₲ 0|Gs. 0
+RON,ro-RO,0 lei
+RSD,sr-RS,0 din.
+RUB,ru-RU,0 ₽|0 руб.|0 rub.
+RWF,rw-RW,RF 0
+SBD,en-SB,SI$0
+SCR,fr-SC,0 SR
+SEK,sv-SE,0 Skr
+SLE,en-SL,Le 0
+SOS,so-SO,S 0
+SRD,nl-SR,SR$ 0
+STN,pt-ST,0 Db
+SYP,fr-SY,0 LS
+SZL,en-SZ,E 0
+THB,th-TH,฿0
+TND,fr-TN,0 DT
+TOP,to-TO,T$0
+TRY,tr-TR,₺0|0 TL
+TTD,en-TT,TT$0
+TWD,zh-HK,NT$0
+TZS,sw-TZ,TSh 0
+UAH,uk-UA,0 ₴|0 грн.|0 hrn.
+UGX,sw-UG,USh 0
+UYU,en-AU,$U 0
+UZS,uz-UZ,0 soʻm
+VES,es-VE,Bs.S 0
+VND,vi-VN,0 ₫
+VUV,en-VU,VT 0
+WST,en-WS,WS$0
+XAF,fr-CM,0 FCFA
+XCD,en-NZ,EC$0
+XOF,fr-NE,0 F CFA
+XPF,fr-PF,0 FCFP
+ZAR,en-ZA,R 0
+ZMW,en-ZM,ZK 0
