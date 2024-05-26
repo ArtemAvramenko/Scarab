@@ -113,7 +113,11 @@ public static class UpdateDraft
 
                 foreach (XmlNode symbolNode in node.SelectNodes("symbol"))
                 {
-                    var sign = symbolNode.InnerText;
+                    var sign = symbolNode.InnerText.Trim(' ', '\t', '\u200B');
+                    if (sign.Length == 0)
+                    {
+                        continue;
+                    }
                     string forcedSign;
                     _forcedCodeToSignMap.TryGetValue(code, out forcedSign);
                     if (sign == code ||

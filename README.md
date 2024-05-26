@@ -21,6 +21,10 @@ The dataset is represented as a table, where each record consists of a three-let
 
 Before using this dataset, it is important to make sure that the selected currency display formats are supported by the software or platform being used. It is recommended to check if the selected designations are available in the required software or font set. For example, some default fonts such as Arial may not contain all required currency symbols. A compatibility check should be performed to ensure smooth integration and correct display of the selected display formats.
 
+## Versioning
+
+Major version matches the CLDR version on which the draft dataset was created.
+
 ## Disclaimer
 
 Although this dataset has been carefully selected, it is always advisable to thoroughly test and validate the selected display formats in the intended software or platform. Font compatibility and availability may vary and it is important to ensure consistent and accurate currency mapping.
@@ -31,4 +35,4 @@ This project is grateful to the Common Locale Data Repository (CLDR) for providi
 
 ## License
 
-Этот набор данных доступен на условиях CC BY. Пожалуйста, обратитесь к файлу лицензии для получения более подробной информации.
+This dataset is available under CC BY terms. Please refer to the LICENSE file for more details.
