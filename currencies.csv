@@ -5,13 +5,12 @@ JPY,ja-JP,¥0|￥0|JP¥0|JP￥0|0円
 KRW,ko-KR,₩0|￦0
 SGD,en-SG,S$0
 USD,en-US,$0|US$0
-BTC,xx-XX,₿0
-ETH,xx-XX,Ξ0
-LTC,xx-XX,Ł0
+BTC,,₿0
+ETH,,Ξ0
+LTC,,Ł0
 AFN,fa-AF,0 Afs
 ALL,sq-AL,0 Lekë
 AMD,hy-AM,0 ֏|0 դր.
-ANG,nl-CW,NAf. 0
 AOA,pt-PO,Kz 0
 ARS,es-AR,AR$ 0
 AUD,en-AU,A$0
@@ -121,6 +120,7 @@ VUV,en-VU,VT 0
 WST,en-WS,WS$0
 XAF,fr-CM,0 FCFA
 XCD,en-NZ,EC$0
+XCG,,Cg 0|Cg. 0
 XOF,fr-NE,0 F CFA
 XPF,fr-PF,0 FCFP
 ZAR,en-ZA,R 0

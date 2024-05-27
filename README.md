@@ -15,7 +15,18 @@ The dataset was created using a two-step process:
 
 ## Dataset Format
 
-The dataset is represented as a table, where each record consists of a three-letter currency code (according to ISO 4217) as the key and one or more display formats as the value. The display formats represent different ways of placing the currency symbol in relation to the amount. The formats are chosen to ensure unique and unambiguous identification of each currency.
+The dataset is represented as a table, where each record consists of a three-letter currency code (according to ISO 4217) as the key and one or more display formats as the value. The display formats represent different ways of placing the currency symbol in relation to the amount. The formats are chosen to ensure unique and unambiguous identification of each currency. Here are examples from the dataset:
+
+| Code | CultureReference | Signs               |
+|------|------------------|---------------------|
+| AUD  | en-AU            | A$0                 |
+| BRL  | pt-BR            | R$ 0                |
+| CZK  | cs-CZ            | 0 Kč                |
+| EUR  | de-DE            | 0 €                 |
+| PLN  | pl-PL            | 0 zł                |
+| TRY  | tr-TR            | ₺0\|0 TL            |
+| UAH  | uk-UA            | 0 ₴\|0 грн.\|0 hrn. |
+| ZAR  | en-ZA            | R 0                 |
 
 ## Usage Considerations
 
