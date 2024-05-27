@@ -15,7 +15,7 @@ The dataset was created using a two-step process:
 
 ## Dataset Format
 
-The dataset is represented as a table, where each record consists of a three-letter currency code (according to ISO 4217) as the key and one or more display formats as the value. The display formats represent different ways of placing the currency symbol in relation to the amount. The formats are chosen to ensure unique and unambiguous identification of each currency.
+The dataset is represented as a [table](./currencies.csv), where each record consists of a three-letter currency code (according to ISO 4217) as the key and one or more display formats as the value. The display formats represent different ways of placing the currency symbol in relation to the amount. The formats are chosen to ensure unique and unambiguous identification of each currency.
 
 ## Usage Considerations
 
