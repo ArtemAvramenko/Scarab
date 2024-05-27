@@ -1,3 +1,4 @@
+Code,CultureReference,Signs
 EUR,de-DE,0 €
 GBP,en-GB,£0|GB£0
 JPY,ja-JP,¥0|￥0|JP¥0|JP￥0|0円
@@ -60,7 +61,7 @@ INR,hi-IN,₹0
 ISK,is-IS,0 Ikr
 JMD,en-JM,J$0
 KES,sw-KE,Ksh 0
-KGS,ky-KG,0 сом|0 som
+KGS,ky-KG,0 сом|0 som|0 ⃀
 KHR,km-KH,៛0
 KMF,fr-KM,0 CF
 KYD,en-KY,CI$0

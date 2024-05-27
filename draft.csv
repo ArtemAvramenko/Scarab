@@ -1,7 +1,7 @@
+Code,Signs
 AFN,Af
 ALL,Lekë
 AMD,դր.|֏
-ANG,NAf|NAf.
 AOA,Kz
 ARS,$AR|AR$
 AUD,$A|$AU|$ AU|A$|AU$|AUD$
@@ -23,13 +23,12 @@ BYN,Br.|P.|p.|r.|р|р.
 BZD,$BZ|BZ$|DBZ
 CAD,$CA|CA$|KA$
 CDF,KDF
-CHF,Fr.|SZF
+CHF,F.Sv.|Fr.|SZF
 CLP,$CL|CL$
 CNH,I-CNH|የቻይና ዩዋን
 CNY,CN¥|¥CN|‎CN¥‎|元
 COP,$CO|CO$|KOP
 CRC,KRK|₡
-CUC,CUC$|Cub$|KUK
 CUP,$MN|CU$|KUP
 CZK,Kč|TSK|Кч
 DJF,Fdj
@@ -60,7 +59,7 @@ ISK,Ikr|Íkr
 JMD,J$|JM$
 JPY,JP¥|¥
 KES,Ksh
-KGS,сом
+KGS,сом|⃀
 KHR,៛
 KMF,CF|KF
 KRW,KR₩|₩|￦
@@ -96,7 +95,7 @@ PLN,Zł|zl|zł|зл
 PYG,Gs|Gs.|₲
 RON,lei|lej|leu|ley|лей|रॉन|लेई|ಲೀ|レイ
 RSD,din.|дин.
-RUB,rb|руб|руб.|₽
+RUB,Rub.|rb|руб|руб.|₽
 RWF,F.Rw|FR|RF
 SBD,$SB|SB$|SI$
 SCR,SCRu|SR|SSR
@@ -120,7 +119,7 @@ TWD,NT$
 TZS,TSh
 UAH,грн|грн.|₴
 UGX,UGS|USh
-USD,$|$ SU|$ US|$US|$ US|US $|US$|щ.д.|𞅎
+USD,$|$ SU|$US|$ US|US $|US$|щ.д.|𞅎
 UYU,$U|$UY|UY$
 UZS,soʻm|сўм
 VES,Bs.S
@@ -129,6 +128,7 @@ VUV,VT
 WST,$WS|WS$
 XAF,FCF|FCFA|𞤊𞤅𞤊𞤀
 XCD,$EC|EC$|KB$
+XCG,Cg|Cg.
 XOF,CFA|F CFA|SFA|සිෆ්එ|𞤅𞤊𞤀
 XPF,CFP|CFPF|F CFP|FCFP
 ZAR,R

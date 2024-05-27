@@ -157,6 +157,7 @@ public static class UpdateDraft
             res.Add(pair.Key + ',' + string.Join("|", pair.Value.ToArray()));
         }
         res.Sort(StringComparer.Ordinal);
+        res.Insert(0, "Code,Signs");
         File.WriteAllText(filePath, string.Join("\n", res));
     }
 
