@@ -5,49 +5,46 @@ AMD,դր.|֏
 AOA,Kz
 ARS,$AR|AR$
 AUD,$A|$AU|$ AU|A$|AU$|AUD$
-AWG,Afl|Afl.
+AWG,Afl.
 AZN,ман.|₼
 BAM,KM|КМ
-BBD,BB$|BBG|Bds$|DBB
+BBD,BB$|Bds$
 BDT,TK|Tk|৳
 BGN,лв.
 BIF,FBu
-BMD,$BM|BD$|BM$|DBM
+BMD,$BM|BD$|BM$
 BND,$BN|BN$
-BOB,BUB|Bs
+BOB,Bs
 BRL,BR$|R$
-BSD,$BS|B$|BS$
+BSD,B$|BS$
 BTN,Nu.
 BWP,P
 BYN,Br.|P.|p.|r.|р|р.
-BZD,$BZ|BZ$|DBZ
+BZD,$BZ|BZ$
 CAD,$CA|CA$|KA$
-CDF,KDF
-CHF,F.Sv.|Fr.|SZF
 CLP,$CL|CL$
-CNH,I-CNH|የቻይና ዩዋን
 CNY,CN¥|¥CN|‎CN¥‎|元
-COP,$CO|CO$|KOP
-CRC,KRK|₡
-CUP,$MN|CU$|KUP
-CZK,Kč|TSK|Кч
+COP,$CO|CO$
+CRC,₡
+CUP,$MN|CU$
+CZK,Kč|Кч
 DJF,Fdj
 DKK,Dkr
 DOP,DO$|RD$
 DZD,DA
-EGP,EG£|E£|LE|£ E|£E
+EGP,EG£|E£|£E
 ERN,Nfk
 ETB,ብር
-EUR,r|€
-FJD,$FJ|F$|FJ$|FJC
+EUR,€
+FJD,$FJ|FJ$
 FKP,FK£|Fl£|£FK
 GBP,GB£|UK£|£|£ RU|£GB
 GEL,[₾]|ລາຣີ|ლ|₾
-GHS,GHC|GH₵|₵
+GHS,GH₵|₵
 GIP,£GI
 GMD,D
-GNF,F.G.|FG|𞤊𞤘
-GTQ,GTK|Q
+GNF,F.G.|FG
+GTQ,Q
 GYD,G$|GY$
 HKD,$ HK|$HK|$ HK|HK$|HKS
 HTG,G
@@ -61,7 +58,7 @@ JPY,JP¥|¥
 KES,Ksh
 KGS,сом|⃀
 KHR,៛
-KMF,CF|KF
+KMF,CF
 KRW,KR₩|₩|￦
 KYD,CI$|KY$
 KZT,₸
@@ -69,7 +66,7 @@ LAK,₭
 LBP,L£|£L|£LB
 LKR,Rs.|රු.
 LRD,$LR|L$
-LSL,M|lLS|ЛСЛ|ឡូទី
+LSL,M|ЛСЛ
 MGA,Ar
 MKD,den|ден.
 MNT,₮
@@ -78,28 +75,26 @@ MRU,UM
 MUR,રૂ.
 MVR,Rf
 MWK,MK
-MXN,$MX|MX$|MZ$
+MXN,$MX|MX$
 MYR,RM
 MZN,MTn
 NAD,$NA|N$
-NGN,₦|𞤐𞤐𞤘
-NIO,$C|K$
+NGN,₦
+NIO,$C
 NOK,NKr|Nkr
 NPR,नेरू|रू
 NZD,$ ZN|$NZ|$ NZ|NZ$|NZD$
 PAB,B/.
 PEN,S/
-PGK,𞤑𞤆𞤘
-PHP,𞤆𞤆𞤖
 PLN,Zł|zl|zł|зл
 PYG,Gs|Gs.|₲
-RON,lei|lej|leu|ley|лей|रॉन|लेई|ಲೀ|レイ
+RON,lei|lej|leu|ley|लेई|ಲೀ|レイ
 RSD,din.|дин.
-RUB,Rub.|rb|руб|руб.|₽
+RUB,rb|руб|руб.|₽
 RWF,F.Rw|FR|RF
 SBD,$SB|SB$|SI$
-SCR,SCRu|SR|SSR
-SEK,Skr|кр
+SCR,SR
+SEK,кр
 SGD,$SG|$ SG|S$
 SLE,Le
 SOS,S
@@ -109,27 +104,26 @@ STN,Db|STD
 SYP,LS|S£
 SZL,E
 THB,TH฿|฿
-TJS,сом.
 TMT,ТМТ
 TND,DT
-TOP,$ T|$T|T$
+TOP,$T|T$
 TRY,LT|TL|Тл|₺
 TTD,$TT|TT$
 TWD,NT$
 TZS,TSh
 UAH,грн|грн.|₴
-UGX,UGS|USh
-USD,$|$ SU|$US|$ US|US $|US$|щ.д.|𞅎
+UGX,USh
+USD,$|$ SU|$US|$ US|US$|щ.д.
 UYU,$U|$UY|UY$
 UZS,soʻm|сўм
 VES,Bs.S
 VND,₫
 VUV,VT
 WST,$WS|WS$
-XAF,FCF|FCFA|𞤊𞤅𞤊𞤀
-XCD,$EC|EC$|KB$
+XAF,FCFA
+XCD,$EC|EC$
 XCG,Cg|Cg.
-XOF,CFA|F CFA|SFA|සිෆ්එ|𞤅𞤊𞤀
-XPF,CFP|CFPF|F CFP|FCFP
+XOF,F CFA|සිෆ්එ
+XPF,CFP|CFPF|FCFP
 ZAR,R
-ZMW,Kw|ZK|Zk
+ZMW,Kw|ZK

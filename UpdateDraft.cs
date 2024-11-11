@@ -73,7 +73,7 @@ public static class UpdateDraft
                     continue;
                 }
                 var symbols = new HashSet<string>();
-                foreach (XmlNode symbolNode in node.SelectNodes("symbol"))
+                foreach (XmlNode symbolNode in node.SelectNodes("symbol[not(@draft)]"))
                 {
                     symbols.Add(symbolNode.InnerText);
                 }
@@ -111,7 +111,7 @@ public static class UpdateDraft
                     continue;
                 }
 
-                foreach (XmlNode symbolNode in node.SelectNodes("symbol"))
+                foreach (XmlNode symbolNode in node.SelectNodes("symbol[not(@draft)]"))
                 {
                     var sign = symbolNode.InnerText.Trim(' ', '\t', '\u200B');
                     if (sign.Length == 0)
@@ -164,7 +164,7 @@ public static class UpdateDraft
     public static void Main()
     {
         Generate(
-            Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "CLDR_common"),
+            Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), @"CLDR\common"),
             "../../../draft.csv");
     }
 }
