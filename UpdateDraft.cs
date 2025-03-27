@@ -4,6 +4,9 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Xml;
 
+// example of format check in a browser:
+// (0).toLocaleString('en-ZA', {style:'currency', currency:'ZAR', currencyDisplay: 'symbol'})
+
 public static class UpdateDraft
 {
     private static string BaseDir { get; set; }
