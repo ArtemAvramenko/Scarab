@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 
@@ -13,7 +15,7 @@ public static class UpdateDraft
 
     private static readonly Regex _rtlRegex = new Regex("[\u0591-\u07FF]");
 
-    private static readonly Dictionary<string, string> _forcedCodeToSignMap = new Dictionary<string, string>()
+    private readonly static Dictionary<string, string> _forcedCodeToSignMap = new Dictionary<string, string>()
         {
             { "USD", "$" },
             { "JPY", "¥" },
@@ -22,7 +24,7 @@ public static class UpdateDraft
             { "SGD", "S$" }
         };
 
-    private static Lazy<List<XmlDocument>> _localeDocs = new Lazy<List<XmlDocument>>(() =>
+    private readonly static Lazy<List<XmlDocument>> _localeDocs = new Lazy<List<XmlDocument>>(() =>
     {
         var res = new List<XmlDocument>();
         var dir = new DirectoryInfo(Path.Combine(BaseDir, "main"));
@@ -40,7 +42,7 @@ public static class UpdateDraft
         return res;
     });
 
-    private static Lazy<HashSet<string>> _actualCodes = new Lazy<HashSet<string>>(() =>
+    private readonly static Lazy<HashSet<string>> _actualCodes = new Lazy<HashSet<string>>(() =>
     {
         var res = new HashSet<string>();
         var xml = new XmlDocument { XmlResolver = null };
@@ -164,10 +166,33 @@ public static class UpdateDraft
         File.WriteAllText(filePath, string.Join("\n", res));
     }
 
+    public static void ConvertToJson(string csvFile, string jsonFile)
+    {
+        var json = new StringBuilder("{");
+        foreach (var csv in File.ReadAllLines(csvFile).Skip(1))
+        {
+            var values = csv.Split(',');
+            if (values.Length > 2)
+            {
+                json.Append("\n  \"");
+                json.Append(values[0]);
+                json.Append("\": \"");
+                json.Append(values[2]);
+                json.Append("\",");
+            }
+        }
+        json.Length--;
+        json.Append("\n}");
+        File.WriteAllText(jsonFile, json.ToString());
+    }
+
     public static void Main()
     {
         Generate(
             Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), @"CLDR\common"),
             "../../../draft.csv");
+        ConvertToJson(
+            "../../../currencies.csv",
+            "../../../currencies.json");
     }
 }

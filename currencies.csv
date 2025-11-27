@@ -19,7 +19,6 @@ AZN,az-AZ,0 ₼|0 man.
 BAM,bs-BA,0 KM
 BDS,sv-SE,Bd$0
 BDT,bn-BD,0৳|0 Tk
-BGN,bg-BG,0 лв.|0 lv.
 BIF,rn-BI,0 FBu
 BMD,en-BM,BM$0
 BND,ms-BN,BN$ 0
@@ -95,6 +94,7 @@ RON,ro-RO,0 lei
 RSD,sr-RS,0 din.
 RUB,ru-RU,0 ₽|0 руб.|0 rub.
 RWF,rw-RW,RF 0
+SAR,,⃁0
 SBD,en-SB,SI$0
 SCR,fr-SC,0 SR
 SLE,en-SL,Le 0
@@ -125,3 +125,4 @@ XOF,fr-NE,0 F CFA
 XPF,fr-PF,0 FCFP
 ZAR,en-ZA,R 0
 ZMW,en-ZM,ZK 0
+ZWG,,0 ZiG

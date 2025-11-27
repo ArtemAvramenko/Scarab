@@ -10,7 +10,6 @@ AZN,ман.|₼
 BAM,KM|КМ
 BBD,BB$|Bds$
 BDT,TK|Tk|৳
-BGN,лв.
 BIF,FBu
 BMD,$BM|BD$|BM$
 BND,$BN|BN$
@@ -92,6 +91,7 @@ RON,lei|lej|leu|ley|लेई|ಲೀ|レイ
 RSD,din.|дин.
 RUB,rb|руб|руб.|₽
 RWF,F.Rw|FR|RF
+SAR,⃁
 SBD,$SB|SB$|SI$
 SCR,SR
 SEK,кр
@@ -122,8 +122,9 @@ VUV,VT
 WST,$WS|WS$
 XAF,FCFA
 XCD,$EC|EC$
-XCG,Cg|Cg.
+XCG,ANG|Cf|Cg|Cg.|Kg.|ƒ
 XOF,F CFA|සිෆ්එ
 XPF,CFP|CFPF|FCFP
 ZAR,R
 ZMW,Kw|ZK
+ZWG,ZiG
