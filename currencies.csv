@@ -8,6 +8,7 @@ USD,en-US,$0|US$0
 BTC,,₿0
 ETH,,Ξ0
 LTC,,Ł0
+AED,,⃃0
 AFN,fa-AF,0 Afs
 ALL,sq-AL,0 Lekë
 AMD,hy-AM,0 ֏|0 դր.
@@ -74,7 +75,7 @@ MNT,mn-MN,₮ 0
 MOP,zh-MO,MOP$0
 MRU,fr-MR,0 UM
 MUR,en-MU,Rs 0
-MVR,en-MV,Rf 0
+MVR,en-MV,⃂0|Rf 0
 MWK,en-MW,MK 0
 MXN,us-us,MX$0
 MYR,ms-MY,RM 0
@@ -85,6 +86,7 @@ NIO,es-NI,C$0
 NOK,nb-NO,Nkr 0
 NPR,ne-NP,रू 0
 NZD,en-US,NZ$0
+OMR,,⃄0
 PAB,es-PA,B/. 0
 PEN,es-PE,S/ 0
 PHP,en-PH,₱0

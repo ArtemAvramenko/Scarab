@@ -1,4 +1,5 @@
 Code,Signs
+AED,⃃
 AFN,Af
 ALL,Lekë
 AMD,դր.|֏
@@ -21,6 +22,7 @@ BWP,P
 BYN,Br.|P.|p.|r.|р|р.
 BZD,$BZ|BZ$
 CAD,$CA|CA$|KA$
+CHF,Fr|Fr.|Fr.‎|fr.
 CLP,$CL|CL$
 CNY,CN¥|¥CN|‎CN¥‎|元
 COP,$CO|CO$
@@ -72,7 +74,7 @@ MNT,₮
 MOP,MOP$
 MRU,UM
 MUR,રૂ.
-MVR,Rf
+MVR,Rf|⃂
 MWK,MK
 MXN,$MX|MX$
 MYR,RM
@@ -83,6 +85,7 @@ NIO,$C
 NOK,NKr|Nkr
 NPR,नेरू|रू
 NZD,$ ZN|$NZ|$ NZ|NZ$|NZD$
+OMR,⃄
 PAB,B/.
 PEN,S/
 PLN,Zł|zl|zł|зл
@@ -93,7 +96,6 @@ RUB,rb|руб|руб.|₽
 RWF,F.Rw|FR|RF
 SAR,⃁
 SBD,$SB|SB$|SI$
-SCR,SR
 SEK,кр
 SGD,$SG|$ SG|S$
 SLE,Le
